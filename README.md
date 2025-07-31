@@ -30,6 +30,9 @@ Lets you cast spells by pressing a button instead of speaking. It works by playi
 
 3. Restart your computer if needed
 
+### 2. PIP Install
+- pyaudio, wave, keyboard
+
 ---
 
 ### 3. Set Up Sound Routing
